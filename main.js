@@ -1,2 +1,5 @@
 const createBot = require('./lib/createBot')
-const instances = require('./lib/instances')   
+const createInstance = require('./lib/createInstance')   
+const launchBots = require('./lib/launchBots')
+
+launchBots()
