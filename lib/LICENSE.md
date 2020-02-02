@@ -1,6 +1,12 @@
+The Sardor's License
+
+Copyright (c) 2020 Sardorkhuja Tukhtakhodjaev
+
+
+
 You can use, copy, save and edit this code with only one condition: 
 
-!YOU MUST INCLUDE THIS TEXT: "Development of engine of bot: @Sardorkhuja" ON THE VISIBLE SPOT OF YOUR PROJECT.
+>>> YOU MUST INCLUDE THIS TEXT: "Development of engine of bot: @Sardorkhuja" ON THE VISIBLE SPOT OF YOUR PROJECT.
 
 In the bot it's "Bot about" blank of account of your bot, in that you'll use this code.
 On the web-sites it's the "bottom" on every web-page with minimum size 12px and contrasting from the background color (it should be easily readable)
