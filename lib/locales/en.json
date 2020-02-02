@@ -1,10 +1,11 @@
 { 
   "hello": "Hello ${name} and welcome! Choose in the bottom, what are you going to do:",
-
+  "getToken": "Send me a token for your new bot:",
 
 
   "buttons": {
-  "createBot": "Create bot"
+    "createBot": "Create bot",
+    "cancel": "❌ Cancel"
   }
 
 }
