@@ -1,0 +1,10 @@
+{ 
+  "hello": "Hello ${name} and welcome! Choose in the bottom, what are you going to do:",
+
+
+
+  "buttons": {
+  "createBot": "Create bot"
+  }
+
+}

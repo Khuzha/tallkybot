@@ -1,0 +1,27 @@
+{
+  "name": "chatAdmin",
+  "version": "1.0.0",
+  "description": "chatAdmin",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Khuzha/chatAdmin.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Khuzha/chatAdmin/issues"
+  },
+  "homepage": "https://github.com/Khuzha/chatAdmin#readme",
+  "dependencies": {
+    "mongodb": "^3.5.2",
+    "nodemon": "^2.0.2",
+    "path": "^0.12.7",
+    "telegraf": "^3.36.0",
+    "telegraf-i18n": "^6.6.0"
+  }
+}
