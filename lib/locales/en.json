@@ -1,7 +1,8 @@
 { 
   "hello": "Hello ${name} and welcome! Choose in the bottom, what are you going to do:",
   "getToken": "Send me a token for your new bot:",
-
+  "tokenReady": "Thank you! Your bot is ready to work",
+  "notToken": "That's not token. Please, send correct token in format 992423853:AAFwE1VyujhzfhtJlO47ulOcNYZsVPLbytY",
 
   "buttons": {
     "createBot": "Create bot",
