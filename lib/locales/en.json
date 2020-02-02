@@ -1,13 +1,16 @@
 { 
   "hello": "Hello ${name} and welcome! Choose in the bottom, what are you going to do:",
   "getToken": "Send me a token for your new bot:",
+  "getHelloMessage": "Send me a hello-message, that bot will send at start",
   "tokenReady": "Thank you! Your bot is ready to work",
   "alreadyAdded": "You've already added this bot.",
   "notToken": "That's not valid token. Please, send correct token in format 992423853:AAFwE1VyujhzfhtJlO47ulOcNYZsVPLbytY",
+  "notText": "Please send only text",
 
   "buttons": {
     "createBot": "Create bot",
-    "cancel": "❌ Cancel"
+    "back": "⬅️ Назад",
+    "cancel": "❌ Cancel",
+    "reply": ""
   }
-
 }
