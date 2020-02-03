@@ -7,8 +7,8 @@
   "notToken": "That's not valid token. Please, send correct token in format 992423853:AAFwE1VyujhzfhtJlO47ulOcNYZsVPLbytY",
   "notText": "Please send only text",
   "itsYou": "It's your own bot. Whom do you want to send a message?",
-  "newMessage": "New message from <a href=\"tg://user?id=${userId}\">${name}</a>:\n\n",
-  "reply": "Send your message:",
+  "newMessage": "New message from <a href=\"tg://user?id=${userId}\">${name}</a>${nick}:\n\n",
+  "reply": "Send your message for <a href=\"tg://user?id=${userId}\">${name}</a>:",
 
   "credits": "\n\n- - - - - - - - - - - -\nThis bot is built on @TallkyBot",
 
