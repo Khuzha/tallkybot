@@ -15,6 +15,7 @@
 
   "buttons": {
     "createBot": "Create bot",
+    "myBots": "My bots",
     "cancel": "❌ Cancel",
     "back": "⬅️ Back",
     "reply": "↩️ Reply"
