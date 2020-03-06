@@ -12,6 +12,9 @@
   "sent": "Your message was sent successfully✅",
   "noBots": "You don't have any bots now, but you can connect them, using button in the bottom.",
   "yourBots": "Here are all your connected bots. Choose the needed one:",
+  "manageBot": "Choose, what are going to do with bot @${botUsername}:",
+  "editToken": "Send me a new token for your bot @${botUsername}:",
+  "tokenEdited": "✅ Token is succesfully edited.",
 
   "credits": "\n\n- - - - - - - - - - - -\nThis bot is built on @TallkyBot",
 
@@ -20,6 +23,8 @@
     "myBots": "My bots",
     "cancel": "❌ Cancel",
     "back": "⬅️ Back",
-    "reply": "↩️ Reply"
+    "reply": "↩️ Reply",
+    "editToken": "🖊 Edit token",
+    "deleteBot": "❌ Delete bot"
   }
 }
