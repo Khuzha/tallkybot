@@ -10,6 +10,8 @@
   "newMessage": "New message from <a href=\"tg://user?id=${userId}\">${name}</a>${nick}:\n\n",
   "reply": "Send your message for <a href=\"tg://user?id=${userId}\">${name}</a>:",
   "sent": "Your message was sent successfully✅",
+  "noBots": "You don't have any bots now, but you can connect them, using button in the bottom.",
+  "yourBots": "Here are all your connected bots. Choose the needed one:",
 
   "credits": "\n\n- - - - - - - - - - - -\nThis bot is built on @TallkyBot",
 
