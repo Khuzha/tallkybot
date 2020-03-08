@@ -2,8 +2,7 @@
   "name": "chatAdmin",
   "version": "1.0.0",
   "description": "chatAdmin",
-  "main": "main.js",
-  "type": "module",
+  "main": "index.js",
   "scripts": {
     "test": "nodemon main.js"
   },
@@ -19,7 +18,6 @@
   },
   "homepage": "https://github.com/Khuzha/chatAdmin#readme",
   "dependencies": {
-    "@telegraf/core": "^1.0.1",
     "mongodb": "^3.5.2",
     "nodemon": "^2.0.2",
     "path": "^0.12.7",
