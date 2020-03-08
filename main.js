@@ -1,5 +1,5 @@
-import createBot from './lib/createBot.js'
-import createInstance from './lib/createInstance.js'   
-import launchBots from './lib/launchBots.js'
+import createBot from './lib/createBot'
+import createInstance from './lib/createInstance'   
+import launchBots from './lib/launchBots'
 
 launchBots()
